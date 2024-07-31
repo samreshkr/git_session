@@ -14,7 +14,7 @@ In windows task bar serch for Git Bash. Open it and run the following two comman
     git config --global user.email "you@example.com"
 
 "Your Name" is your Github user name without quotes e.g. mygithubusername.     
-"you@example.com" is the email ID associated with your Githu acocunt without quotes e.g. myemail@gmail.com
+"you@example.com" is the email ID associated with your Github acocunt without quotes e.g. myemail@gmail.com
 
 Now you are ready for the session.
 
