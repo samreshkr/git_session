@@ -1,3 +1,7 @@
-To get started with git, please install the following:
+### Install everything necessary
 
-[Install Git](https://git-scm.com/downloads)
+1. [Install Git](https://git-scm.com/downloads)
+2. Create a [Github Account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) if you don't already have one.
+    - Install [Github GUI](https://github.com/apps/desktop)(optional). This will not be necessary.
+3. Install and set up [VS Code](https://code.visualstudio.com/docs/setup/setup-overview).
+    - From the VS Code [marketplace](https://marketplace.visualstudio.com/vscode) install [R](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r) or [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python).
