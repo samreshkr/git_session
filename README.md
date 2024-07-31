@@ -7,3 +7,14 @@
 3. Install and set up [VS Code](https://code.visualstudio.com/docs/setup/setup-overview).
     - From the VS Code [marketplace](https://marketplace.visualstudio.com/vscode) install [R](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r) or [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) extension which provides editor support for the languages.
 
+### Set up Git
+In windows task bar serch for Git Bash. Open it and enter the following two commands:
+
+    git config --global user.name "Your Name"
+    git config --global user.email "you@example.com"
+
+"Your Name" is your Github user name without quotes e.g. mygithubusername
+"you@example.com" is the email ID associated with your Githu acocunt without quotes e.g. myemail@gmail.com
+
+Now you are ready for the session.
+
