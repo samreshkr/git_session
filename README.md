@@ -18,3 +18,12 @@ In windows task bar serch for Git Bash. Open it and run the following two comman
 
 Now you are ready for the session.
 
+### Git Demonstration
+
+1. Clone
+2. Stage
+3. Commit
+4. Push
+5. Pull Request
+
+
